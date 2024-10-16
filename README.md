@@ -1,6 +1,5 @@
 # EasyTask
-I followed Angular tutorial to make this project.
-App that has predefined array of users, for which you can add / complete tasks
+Oldschool Angular app that uses modules, has predefined array of users, for which you can add / complete tasks
 
 ![img.png](img.png)
 

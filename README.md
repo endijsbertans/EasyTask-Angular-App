@@ -1,3 +1,13 @@
+# EasyTask
+I followed Angular tutorial to make this project.
+App that has predefined array of users, for which you can add / complete tasks
+
+![img.png](img.png)
+
+
+
+
+
 # Essentials
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
